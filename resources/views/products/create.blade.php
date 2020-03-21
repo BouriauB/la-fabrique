@@ -1,7 +1,7 @@
 @extends('layouts.products')
 
 @section('content')
-    <a href="{{route('cat.index')}}">back</a>
+    <a href="{{route('dashboard')}}">back</a>
 
     <h1>Ajouter un produit</h1>
 

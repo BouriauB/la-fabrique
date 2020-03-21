@@ -13,7 +13,7 @@
     /* HOME_PAGE */
 
     .parallax_top{
-        background-image: url('/images/nazareno-contreras-p0NvD6umfgY-unsplash.jpg');
+        background-image: url('/images/home/nazareno-contreras-p0NvD6umfgY-unsplash.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -47,7 +47,7 @@
         height: 25px;
         background-color:#363b3f;
     }
-    
+
 
     #header-back{
         width: 50%;
@@ -80,7 +80,7 @@
     #menu-admin{
         display: flex;
     }
-    
+
     #menu-admin a {
         text-decoration: none;
         font-weight: 300;
@@ -88,21 +88,21 @@
         transition: 0.25s;
         cursor: pointer;
     }
-    
+
     #menu-admin li{
         list-style: none;
     }
-    
+
     #menu-admin a:hover {
         color: #fff;
     }
-    
+
     .dashboard{
         position: absolute;
         top: 0;
         left: 5%;
     }
-    
+
     .deco{
         position: absolute;
         top: 0;

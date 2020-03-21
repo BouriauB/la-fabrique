@@ -3,7 +3,7 @@
         <ul id="menu-admin">
             <li>
                     <i class="fas fa-edit"></i>
-                    <a href="{{ url('dashboard') }}">DashBoard</a>
+                    <a href="{{ route('dashboard') }}">DashBoard</a>
             </li>
             <li>
                 <a href="{{route('cat.index')}}">Catégorie</a>

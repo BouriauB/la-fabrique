@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="backend_container">
-        <a href="{{route('cat.index')}}">back</a>
+        <a href="{{route('dashboard')}}">back</a>
         <h1 class="products_cat">{{$products[0]->category_name}}</h1>
         <div class="products_container">
             @foreach($products as $product)

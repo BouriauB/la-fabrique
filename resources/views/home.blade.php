@@ -59,7 +59,7 @@
         </div>
     </div>
 
-    <div id="services-container" data-parallax="scroll" data-image-src="{{ asset('images/sneaky-elbow-N4FB-VFMNEk-unsplash.jpg') }}">
+    <div id="services-container" data-parallax="scroll" data-image-src="{{ asset('images/home/sneaky-elbow-N4FB-VFMNEk-unsplash.jpg') }}">
         <div id="services-container-op">
             <div class="title">
                 <h1>SERVICES</h1>
@@ -93,7 +93,7 @@
         <div id="product-container-flex">
             <div class="product">
                 <div class="product-img">
-                    <img src="{{ asset('images/clem-onojeghuo-8AiDiLLGmJs-unsplash.jpg') }}" alt="Fléchettes">
+                    <img src="{{ asset('images/home/clem-onojeghuo-8AiDiLLGmJs-unsplash.jpg') }}" alt="Fléchettes">
                 </div>
                 <a href="/darts">
                     <div class="product-txt">
@@ -104,7 +104,7 @@
             </div>
             <div class="product">
                 <div class="product-img">
-                    <img src="{{ asset('images/klara-kulikova-DUcVepObkXk-unsplash.jpg') }}" alt="Billards">
+                    <img src="{{ asset('images/home/klara-kulikova-DUcVepObkXk-unsplash.jpg') }}" alt="Billards">
                 </div>
                 <a href="/billards">
                     <div class="product-txt">
@@ -114,7 +114,7 @@
             </div>
             <div class="product">
                 <div class="product-img">
-                    <img src="{{ asset('images/kyle-johnson-7dy20Hc1wWE-unsplash.jpg') }}" alt="Flipper">
+                    <img src="{{ asset('images/home/kyle-johnson-7dy20Hc1wWE-unsplash.jpg') }}" alt="Flipper">
                 </div>
                 <a href="/pinballs">
                     <div class="product-txt">
@@ -124,7 +124,7 @@
             </div>
             <div class="product">
                 <div class="product-img">
-                    <img src="{{ asset('images/kelly-sikkema-ehzHvVk0dAw-unsplash.jpg') }}" alt="Baby-foot">
+                    <img src="{{ asset('images/home/kelly-sikkema-ehzHvVk0dAw-unsplash.jpg') }}" alt="Baby-foot">
                 </div>
                 <a href="/soccer-tables">
                     <div class="product-txt">
@@ -150,7 +150,7 @@
                 </p>
             </div>
             <div id="about-img">
-                <img src="{{ asset('images/filipe-de-rodrigues-RtymUl7Tar4-unsplash.jpg') }}" alt="">
+                <img src="{{ asset('images/home/filipe-de-rodrigues-RtymUl7Tar4-unsplash.jpg') }}" alt="">
             </div>
         </div>
     </div>
